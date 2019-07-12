@@ -1,0 +1,3 @@
+This Python Program helps you scrape data from a website( here Amazon.de), and then use it to send a notification email based on a particular criteria. Emails are sent with the help of the SMTP libraries in Python. 
+
+Here we have a camera placed close to 570 USD, and if the price reduces to less than 530 USD, the application program prompts the user by sending an automated email with the subject and body that the mentioned product has started to sell at a discounted rate. This enables the user to keep track of the items in his wishlist and buy them at a discounted price whenever need be.
